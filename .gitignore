@@ -1,0 +1,8 @@
+/vendor/*
+composer.phar
+selenium-server-standalone-*.jar
+
+test/_output/*
+test/_support/_generated/*
+
+tests/_output/*

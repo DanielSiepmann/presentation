@@ -1,0 +1,15 @@
+{
+    "name": "dsiepmann/codeception-example",
+    "description": "Example how to use codeception in different ways.",
+    "license": "GPL-3.0+",
+    "require": {
+        "codeception/codeception": "^2.2",
+        "psy/psysh": "^0.8.1"
+    },
+    "authors": [
+        {
+            "name": "Daniel Siepmann",
+            "email": "coding@daniel-siepmann.de"
+        }
+    ]
+}
